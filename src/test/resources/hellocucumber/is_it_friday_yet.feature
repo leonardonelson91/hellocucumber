@@ -15,4 +15,4 @@ Feature: Is it Friday Yet ?
       | Saturday       | Nope   |
       | Sunday         | Nope   |
       | Test1          | Nope   |
-      | TestToFail     | Failed |
+      | TestToFail     | Nope   |
